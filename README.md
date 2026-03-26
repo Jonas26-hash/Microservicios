@@ -30,7 +30,8 @@ Se utilizaron archivos de configuración separados:
 ---
 
 ## 🧪 Ejecución
-
+→ http://localhost:8081 
 <img width="1907" height="1128" alt="image" src="https://github.com/user-attachments/assets/4c631a7d-af33-4c1a-91c3-aaaf1c339ad5" />
 
+→ http://localhost:8082
 <img width="1901" height="1065" alt="image" src="https://github.com/user-attachments/assets/1e420939-3d2c-48e5-9a67-50dc96e24155" />
